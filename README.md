@@ -1,4 +1,6 @@
 # paper
+记录一些读过的论文，原文和PPT
+
 1. DeepRoadMapper: Extracting Road Topology from Aerial Images
 
 2. FCN: Fully Convolutional Networks for Semantic Segmentation
