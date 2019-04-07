@@ -8,3 +8,5 @@
 3. A GPU Accelerated Update Efficient Index for kNN Queries in Road Networks
 
 4. A System for Scalable Privacy-Preserving Machine Learning
+
+5. Adaptive Adaptive Indexing
