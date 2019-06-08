@@ -1,5 +1,5 @@
 # paper
-记录一些读过的论文，原文和PPT
+锟斤拷录一些锟斤拷锟斤拷锟斤拷锟斤拷锟侥ｏ拷原锟侥猴拷PPT
 
 1. DeepRoadMapper: Extracting Road Topology from Aerial Images
 
@@ -12,3 +12,7 @@
 5. A System for Scalable Privacy-Preserving Machine Learning
 
 6. Adaptive Adaptive Indexing
+
+7. Parallel Personalized Pagerank on Dynamic Graphs
+
+8. Distributed Algorithms on Exact Personalized PageRank
