@@ -1,5 +1,4 @@
 # paper
-��¼һЩ���������ģ�ԭ�ĺ�PPT
 
 1. DeepRoadMapper: Extracting Road Topology from Aerial Images
 
