@@ -12,4 +12,10 @@
 
 1. Adaptive Adaptive Indexing
 
+1. Adaptive Adaptive Indexing
+
+1. Parallel Personalized Pagerank on Dynamic Graphs
+
+1. Distributed Algorithms on Exact Personalized PageRank
+
 1. Object Detection
